@@ -3,7 +3,7 @@ body {
  }
 footer {
     background-color: black;
-    color: white;
+    color: yellow;
     bottom: 0;
     position:fixed;
     width: 100%;
@@ -21,7 +21,7 @@ boby {
 }
 .cartao {
     margin: 1rem 1rem;
-    background-color: burlywood;
+    background-color: green;
     height: 20rem;
     flex-grow:1;
     flex-basis: calc(33% - 6rem);
